@@ -1,0 +1,5 @@
+id,companyId,issuedById,category,description,correctiveAction,retrainingRequired,status,createdAt
+16885504-d783-45bd-966c-f92f0a004721,9499c725-b335-4d97-986d-3a5d06ed6696,810c4acb-1096-49a0-86e6-e17fc1303ceb,FallProtection,Harness not tied off at 12ft.,"Stop work, retrain, inspect harness.",1,ISSUED,2025-12-31T22:31:49.170Z
+0bb74894-0a64-437d-8f89-0bbc7cebfba2,9499c725-b335-4d97-986d-3a5d06ed6696,810c4acb-1096-49a0-86e6-e17fc1303ceb,HotWork,Hot work performed without permit.,"Stop work, issue permit, retrain crew.",1,ISSUED,2025-12-31T22:31:49.160Z
+484eb0e1-6940-4cb7-b644-74a961da255e,9499c725-b335-4d97-986d-3a5d06ed6696,810c4acb-1096-49a0-86e6-e17fc1303ceb,HotWork,Hot work performed without permit.,"Stop work, issue permit, retrain crew.",1,ISSUED,2025-12-31T22:15:39.705Z
+
